@@ -2,6 +2,10 @@ const express = require("express");
 
 const app = express();
 
+//connnet to database
+
+const connect = require("./database/db");
+
 const port = 3002;
 
 const routes = require("./routes/index.js");

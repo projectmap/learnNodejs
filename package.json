@@ -19,6 +19,7 @@
   "homepage": "https://github.com/projectmap/learnNodejs#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mangodb": "^1.0.0",
     "nodemon": "^3.0.1"
   }
 }
